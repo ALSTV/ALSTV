@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, ich bin ALSTV 👋</h1>
 
-<!--
-**ALSTV/ALSTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=24&center=true&vCenter=true&width=600&duration=2500&pause=900&lines=Webdesign;Python+Development;Webhosting;Minimalistische+UI;Open+Source+Projekte;Modernes+Webdevelopment" />
+</p>
 
-Here are some ideas to get you started:
+───
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Webdesign & Development
+Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python‑Tools.
+ Außerdem betreibe ich eigenes Webhosting für meine Projekte.
+
+───
+
+🔧 Skills
+
+<p align="left">
+<img src="https://img.shields.io/badge/Webdesign-00AEEF?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhosting-4CAF50?style=for-the-badge&logo=serverfault&logoColor=white" />
+<img src="https://img.shields.io/badge/UI_Design-ff69b4?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Webdevelopment-181717?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+───
+
+📂 Projekte
+
+<p align="left">
+<img src="https://img.shields.io/badge/Webdesign-Experimente-00AEEF?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-Mini_Tools-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Webhosting-Eigene_Projekte-4CAF50?style=flat-square" />
+</p>
+
+───
+
+📊 GitHub Activity
+
+<p align="center">
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=ALSTV&theme=purple-dark&hide_border=false&border_radius=4.5&mode=daily"
+height="195"
+/>
+</p>
+
+Das noch einbinden https://www.gitgraph.dev
+
+
+───
+
+🌐 Links
+Website / Projekte: https://alstv.github.io/
