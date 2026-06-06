@@ -15,11 +15,10 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 ## 🔧 Skills
 
 <p align="left">
-<img src="https://img.shields.io/badge/Webdesign-00AEEF?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Webhosting-4CAF50?style=for-the-badge&logo=serverfault&logoColor=white" />
 <img src="https://img.shields.io/badge/UI_Design-ff69b4?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Webdevelopment-181717?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Webdesign-181717?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux%20Serveradministration-0A3D62?style=for-the-badge&logo=linux&logoColor=white" />
 
 
