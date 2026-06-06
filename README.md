@@ -1,7 +1,7 @@
 <h1 align="center">Hi, ich bin ALS TV 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=24&center=true&vCenter=true&width=600&duration=2500&pause=900&lines=Webdesign;Python+Development;Webhosting;Eigende+Cloud;Open+Source+Projekte;Modernes+Webdevelopment" />
+<img src="https://readme-typing-svg.herokuapp.com?color=a903fc&size=24&center=true&vCenter=true&width=600&duration=2500&pause=900&lines=Webdesign;Python+Development;Webhosting;Eigende+Cloud;Open+Source+Projekte;Modernes+Webdevelopment" />
 </p>
 
 ───
@@ -34,20 +34,23 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 
 ───
 
+### 🌐 Links 
+Website / Projekte: https://alstv.github.io/
+
+───
+
 ## 📊 GitHub Activity
 
 <p align="center">
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=ALSTV&theme=dark&hide_border=true&border_radius=4.5&mode=daily"
-height="195 "
-/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALSTV&theme=dark" width="600" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ALSTV&theme=github-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALSTV&theme=github-dark" width="600" />
+</p>
 
 
 
 ───
 
-🌐 Links
-Website / Projekte: https://alstv.github.io/
+
