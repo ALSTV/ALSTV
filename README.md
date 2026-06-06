@@ -1,7 +1,7 @@
 <h1 align="center">Hi, ich bin ALS TV 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=a903fc&size=24&center=true&vCenter=true&width=600&duration=2500&pause=900&lines=Webdesign;Python+Development;Webhosting;Eigende+Cloud;Open+Source+Projekte;Webdevelopment" />
+<img src="https://readme-typing-svg.herokuapp.com?color=a903fc&size=24&center=true&vCenter=true&width=600&duration=2500&pause=900&lines=Webdesign;Python+Development;Webhosting;Eigende+Cloud;Open+Source+Projekte;Webdevelopment;Linux+Serveradministration" />
 </p>
 
 ───
@@ -20,6 +20,9 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 <img src="https://img.shields.io/badge/Webhosting-4CAF50?style=for-the-badge&logo=serverfault&logoColor=white" />
 <img src="https://img.shields.io/badge/UI_Design-ff69b4?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Webdevelopment-181717?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux%20Serveradministration-0A3D62?style=for-the-badge&logo=linux&logoColor=white" />
+
+
 </p>
 
 ───
@@ -55,6 +58,6 @@ Website / Projekte: https://alstv.github.io/
 
 ### Sonstiges
 
-Mein Coding Partner: <a src=https://www.github.com/lklegends>LK_Legends</a>
+Mein Coding Partner: LK_Legends -> https://www.github.com/lklegends
 
 
