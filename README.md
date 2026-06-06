@@ -1,7 +1,7 @@
 <h1 align="center">Hi, ich bin ALS TV 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=a903fc&size=24&center=true&vCenter=true&width=600&duration=2500&pause=900&lines=Webdesign;Python+Development;Webhosting;Eigende+Cloud;Open+Source+Projekte;Modernes+Webdevelopment" />
+<img src="https://readme-typing-svg.herokuapp.com?color=a903fc&size=24&center=true&vCenter=true&width=600&duration=2500&pause=900&lines=Webdesign;Python+Development;Webhosting;Eigende+Cloud;Open+Source+Projekte;Webdevelopment" />
 </p>
 
 ───
@@ -50,7 +50,11 @@ Website / Projekte: https://alstv.github.io/
 </p>
 
 
-
 ───
+
+
+### Sonstiges
+
+Mein Coding Partner: <a src=https://www.github.com/lklegends>LK_Legends</a>
 
 
