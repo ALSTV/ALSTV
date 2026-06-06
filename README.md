@@ -32,6 +32,8 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 <img src="https://img.shields.io/badge/Webdesign-Experimente-00AEEF?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-Mini_Tools-3776AB?style=flat-square" />
 <img src="https://img.shields.io/badge/Webhosting-Eigene_Projekte-4CAF50?style=flat-square" />
+<img src="https://img.shields.io/badge/Raspi_NAS-Home_Server-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
+
 </p>
 
 ───
