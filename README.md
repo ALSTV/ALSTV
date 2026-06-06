@@ -1,7 +1,7 @@
-<h1 align="center">Hi, ich bin ALSTV 👋</h1>
+<h1 align="center">Hi, ich bin ALS TV 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=24&center=true&vCenter=true&width=600&duration=2500&pause=900&lines=Webdesign;Python+Development;Webhosting;Minimalistische+UI;Open+Source+Projekte;Modernes+Webdevelopment" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=24&center=true&vCenter=true&width=600&duration=2500&pause=900&lines=Webdesign;Python+Development;Webhosting;Eigende+Cloud;Open+Source+Projekte;Modernes+Webdevelopment" />
 </p>
 
 ───
@@ -12,7 +12,7 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 
 ───
 
-🔧 Skills
+## 🔧 Skills
 
 <p align="left">
 <img src="https://img.shields.io/badge/Webdesign-00AEEF?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,7 +24,7 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 
 ───
 
-📂 Projekte
+## 📂 Projekte
 
 <p align="left">
 <img src="https://img.shields.io/badge/Webdesign-Experimente-00AEEF?style=flat-square" />
@@ -34,16 +34,17 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 
 ───
 
-📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=ALSTV&theme=purple-dark&hide_border=false&border_radius=4.5&mode=daily"
-height="195"
+src="https://github-readme-streak-stats.herokuapp.com/?user=ALSTV&theme=dark&hide_border=true&border_radius=4.5&mode=daily"
+height="195 "
 />
 </p>
 
-Das noch einbinden https://www.gitgraph.dev
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ALSTV&theme=github-dark)
+
 
 
 ───
