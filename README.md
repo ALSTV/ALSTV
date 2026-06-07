@@ -41,7 +41,9 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 ───
 
 ### 🌐 Links 
-Website / Projekte: https://alstv.github.io/
+[Website](https://alstv.github.io/)
+<br>
+[Projekt-Starter](https://github.com/ALSTV/Projekt-Starter)
 
 ───
 
