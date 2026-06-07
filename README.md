@@ -1,4 +1,6 @@
-<h1 align="center">Hi, ich bin ALS TV 👋</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20ich%20bin%20ALS%20TV&fontAlign=50&fontAlignY=35&color=0:3b82f6,100:a903fc&animation=fadeIn"/>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=a903fc&size=24&center=true&vCenter=true&width=600&duration=2500&pause=900&lines=Webdesign;Python+Development;Webhosting;Home+Server;Eigende+Cloud;Open+Source+Projekte;Webdevelopment;Linux+Serveradministration" />
