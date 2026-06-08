@@ -63,6 +63,6 @@ Ich mache Webdesign, minimalistische UIâ€‘Konzepte und entwickle kleine Pythonâ€
 
 ### Sonstiges
 
-Mein Coding Partner: LK_Legends -> https://www.github.com/lklegends
+Mein Coding Partner: [LK_Legends](https://www.github.com/lklegends)
 
 
