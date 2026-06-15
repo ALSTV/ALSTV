@@ -41,9 +41,11 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 ───
 
 ### 🌐 Links 
-[Website](https://alstv.github.io/)
+[Website](https://bekloppten.de/)
 <br>
 [Projekt-Starter](https://github.com/ALSTV/Projekt-Starter)
+<br>
+[Projekte mit Freunden](https://github.com/Bekloppten-Designs)
 
 ───
 
