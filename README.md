@@ -42,9 +42,9 @@ Außerdem betreibe ich eigenes Webhosting für meine Projekte wie z.b meine Clou
 ───
 
 ### 🌐 Links 
-[Website](https://alstv.github.io/)
-<br>
 [Projekt-Starter](https://github.com/ALSTV/Projekt-Starter)
+<br>
+[Projekte mit Freunden](https://github.com/Bekloppten-Designs)
 
 ───
 
@@ -69,6 +69,6 @@ Außerdem betreibe ich eigenes Webhosting für meine Projekte wie z.b meine Clou
 
 ### Sonstiges
 
-Mein Coding Partner: LK_Legends -> https://www.github.com/lklegends
+Mein Coding Partner: [LK_Legends](https://www.github.com/lklegends)
 
 
