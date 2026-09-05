@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20ich%20bin%20ALS%20TV&fontAlign=50&fontAlignY=35&color=0:3b82f6,100:a903fc&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20ich%20bin%20Amon&fontAlign=50&fontAlignY=35&color=0:3b82f6,100:a903fc&animation=fadeIn"/>
 
 
 <p align="center">
@@ -8,9 +8,9 @@
 
 ───
 
-🎨 Webdesign & Development
-Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python‑Tools.
- Außerdem betreibe ich eigenes Webhosting für meine Projekte.
+🎨 Webdesign & Development <br>
+Ich mache Webdesign und entwickle kleine Python‑Tools. <br>
+Außerdem betreibe ich eigenes Webhosting für meine Projekte wie z.b meine Cloud.
 
 ───
 
@@ -31,10 +31,11 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 ## 📂 Projekte
 
 <p align="left">
-<img src="https://img.shields.io/badge/Webdesign-Experimente-00AEEF?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-Mini_Tools-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Bekloppten-Cloud-00AEEF?style=flat-square" />
+<img src="https://img.shields.io/badge/Verschiedene-Python_Tools-3776AB?style=flat-square" />
 <img src="https://img.shields.io/badge/Webhosting-Eigene_Projekte-4CAF50?style=flat-square" />
 <img src="https://img.shields.io/badge/Raspi_NAS-Home_Server-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Eigene-VPN-6A5ACD?style=flat-square" />
 
 </p>
 
@@ -49,13 +50,18 @@ Ich mache Webdesign, minimalistische UI‑Konzepte und entwickle kleine Python�
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALSTV&theme=dark" width="600" />
+<!--<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amon0816&theme=dark" width="600" />
 </p>
+-->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALSTV&theme=github-dark" width="600" />
+  <img src="https://gitpeak.vercel.app/api/readme?username=Amon0816" alt="Amon0816 GitHub Activity" />
 </p>
+
+<!--<a href="https://github.com/Amon0816">
+  <img src="https://samdev-pulse.vercel.app/api/profile?username=Amon0816" alt="Amon0816 GitHub Activity">
+</a>-->
 
 
 ───
